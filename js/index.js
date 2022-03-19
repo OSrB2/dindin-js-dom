@@ -36,18 +36,3 @@ let titulos = document.querySelectorAll(".titulo");
 titulos.forEach((titulo) => {
   titulo.style.textTransform = "uppercase";
 });
-
-// 5. Adicionar um novo curso na section que contém o id investimentos_poupando_independencia:
-
-// let novoCurso = document.getElementById('investimentos_poupando_independencia');
-
-// let novaDiv = <div id="independencia">
-// <img src="/imagens/independencia_financeira.png"
-// width="180px" alt="Independência Financeira">
-// <h2>Independência Financeira</h2>
-// <p>Duis aute irure dolor in reprehenderit in voluptate
-// velit esse cillum dolore
-// eu fugiat nulla pariatur. </p>
-// <a class="comecar_agora" href="./curso.html">começar
-// agora</a>
-// </div>
